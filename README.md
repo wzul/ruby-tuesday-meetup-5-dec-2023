@@ -1,6 +1,8 @@
 # Ruby Tuesday Meetup 5 December 2023
 
-By Wan Zulkarnain
+Title: AASM Callback & Sidekiq
+
+Duration: 5 minutes talk
 
 Link: https://www.meetup.com/ruby-malaysia/events/297749804/
 
